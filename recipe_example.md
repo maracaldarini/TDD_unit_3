@@ -6,6 +6,10 @@ Copy this into a `recipe.md` in your project and fill it out.
 
 _Put or write the user story here. Add any clarifying notes you might have._
 
+As a user
+So that I cab abalyse key words in my texts()
+I want to see a list of uppercase words
+
 ## 2. Design the Function Signature
 
 _Include the name of the function, its parameters, return value, and side effects._
